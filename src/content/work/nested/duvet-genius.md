@@ -1,22 +1,17 @@
 ---
-title: Duvet Genius
-publishDate: 2020-03-04 00:00:00
-img: /assets/stock-3.jpg
-img_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
-description: |
-  We developed a virtual showcase for the softest bedding imaginable.
-tags:
-  - Design
-  - Dev
-  - Branding
+title: Huellas felices
+publishDate: 2023-10-15 00:00:00
+img: /assets/huellas-felices.png
+img_alt: Foto de formulario de inicio de sesión con una foto fondo de un perro en color blanco y negro 
+description: Página de adopción de perros y gatos.
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur posuere commodo venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam non ligula vel metus efficitur hendrerit. In hac habitasse platea dictumst. Praesent et mauris ut mi dapibus semper. Curabitur tortor justo, efficitur sit amet pretium cursus, porta eget odio. Cras ac venenatis dolor. Donec laoreet posuere malesuada. Curabitur nec mi tempor, placerat leo sit amet, tincidunt est. Quisque pellentesque venenatis magna, eget tristique nibh pulvinar in. Vestibulum vitae volutpat arcu. Aenean ut malesuada odio, sit amet pellentesque odio. Suspendisse nunc elit, blandit nec hendrerit non, aliquet at magna. Donec id leo ut nulla sagittis sodales.
+Este proyecto me ha brindado la oportunidad de unir mi amor por los animales y mi pasión por la tecnología para crear un mundo mejor para perros y gatos sin hogar. Desarrollé una página web llamada Huellas Felices, con el objetivo de simplificar y agilizar el proceso de adopción de mascotas.
 
-Integer vitae nibh elit. Suspendisse eget urna eu neque bibendum pharetra. Sed interdum lectus sem, in pulvinar magna dignissim vel. Quisque maximus at urna nec laoreet. Suspendisse potenti. Vestibulum rhoncus sem ut mi pellentesque, in vestibulum erat blandit. Aliquam sodales dui ac maximus consectetur. Duis quis est vehicula, imperdiet nisl nec, fermentum erat. Duis tortor diam, pharetra eu euismod in, vehicula non eros. Curabitur facilisis dui at erat ultrices gravida. In at nunc ultricies, pulvinar mi vel, sagittis mauris. Praesent pharetra posuere purus ac imperdiet. Nulla facilisi.
+En la plataforma que diseñé, se pueden encontrar una amplia variedad de perros y gatos, cada uno con sus propias características y personalidades únicas. La página web que construí es funcional e intuitiva, permitiendo a los usuarios navegar fácilmente a través de perfiles detallados de los animales en busca de un nuevo hogar. También implementé un proceso de adopción sencillo y rápido, permitiendo a los usuarios ponerse en contacto con los anunciantes de adopción con un solo clic.
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
+La arquitectura de la aplicación web que desplegué se basa en un servidor Ubuntu de AWS, que proporciona la infraestructura necesaria para alojar la aplicación web de manera segura y escalable. Esta arquitectura se compone de varias capas esenciales, incluyendo el frontend en React, la API REST en Express y la base de datos NoSQL MongoDB.
 
-Mauris sed eros in ex maximus volutpat. Suspendisse potenti. Donec lacinia justo consectetur sagittis tempor. Proin ullamcorper nisi vitae auctor rhoncus. Sed tristique aliquam augue. Pellentesque vitae fringilla ligula. Nulla arcu elit, efficitur eu nunc malesuada, eleifend tincidunt orci. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer mattis orci in bibendum ultricies. Quisque a dui erat. Phasellus et vulputate ipsum. Proin metus ex, lobortis nec ornare eget, bibendum ut sapien. Aliquam in dolor lobortis, aliquam tellus a, congue augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Para mejorar la experiencia del usuario, trabajé en el diseño de la navegación de la aplicación a través de un Onboarding. Dividí este proceso en partes pública y privada, dependiendo del estado de registro del usuario. Esto permitió que los usuarios no registrados accedieran a la mayoría de las funcionalidades de la página, mientras que los usuarios registrados tenían acceso a un conjunto más amplio de características.
 
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
+En resumen, este proyecto me permitió combinar mi pasión por los animales y mi habilidad en tecnología para crear una plataforma que facilita la adopción de animales.
