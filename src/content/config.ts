@@ -8,6 +8,8 @@ export const collections = {
 			publishDate: z.coerce.date(),
 			img: z.string(),
 			img_alt: z.string().optional(),
+			label: z.string().optional(),
+            url: z.string().url().optional(),
 		}),
 	}),
 };
