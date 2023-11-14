@@ -11,40 +11,17 @@ url: https://github.com/CynthiaMichelle/biblioteca
     text-align: justify;
   }
 </style>
-Esta aplicación React es un sistema estructurado para la creación y visualización de libros. Los usuarios pueden añadir libros proporcionando detalles como el título, autor, imagen de portada, una breve introducción y una reseña. Los libros creados se visualizan en la página principal, proporcionando una interfaz interactiva y fácil de usar.
+ Esta aplicación, que desarrollé usando React, es una plataforma donde cualquier persona puede añadir y explorar libros de forma intuitiva.
 
-Componentes Principales:
-- Book: Muestra un libro individual con su portada, título y un enlace para más detalles. Interactúa con otros componentes para presentar una vista cohesiva.
-- View: Despliega detalles completos de un libro seleccionado, incluyendo autor, introducción y reseña.
-- Create: Permite a los usuarios crear un nuevo libro, capturando todos los detalles necesarios a través de un formulario interactivo.
-- Index: La página principal que muestra todos los libros disponibles, actualizándose dinámicamente con cada nuevo libro agregado.
-- Layout: Define el diseño general, incluyendo la barra de navegación (NavBar) y el espacio para el contenido principal.
-- NavBar: Una barra de navegación intuitiva con enlaces a las páginas de inicio y creación de libros, mejorando la navegabilidad.
-<br>
-Hooks:
-- useState: Gestiona el estado local de los formularios (Create) y los detalles del libro (View), asegurando una experiencia de usuario interactiva.
-- useEffect: Utilizado en View para cargar los detalles del libro cuando la página se carga, asegurando que los datos estén actualizados.
-- useContext: Permite compartir el estado de los libros entre componentes (Book, Index, View) sin pasar props manualmente, simplificando el flujo de datos.
-<br>
-Gestión de Datos (store.js):
-<br>
-- AppContext: Un contexto de React que proporciona funciones para crear, obtener y actualizar libros. Facilita la administración del estado global de los libros y mejora la escalabilidad de la aplicación.
-<br>
-<br>
-Navegación y Rutas:
-<br>
+Mi idea fue crear un espacio donde los usuarios puedan compartir libros. Para ello, basta con proporcionar detalles como el título, autor, una imagen de la portada, una breve introducción y una reseña. He diseñado la página principal para mostrar todos estos libros, creando así una experiencia interactiva y atractiva para el usuario.
 
-- Se utiliza react-router-dom para manejar la navegación entre diferentes páginas y componentes, con rutas bien definidas que mejoran la experiencia del usuario y facilitan la mantenibilidad del código.
-<br>
-<br>
-Flujo de Usuario:
-<br>
+He estructurado la aplicación en varias secciones clave. En la sección principal, se exhiben todos los libros con su respectiva portada y título, y desde allí se puede acceder a más detalles. Además, hay una sección especial para quienes deseen añadir un nuevo libro, facilitando el proceso de introducción de datos de manera sencilla y rápida.
 
-- Creación de un Libro: El usuario navega a la página de creación, llena el formulario y envía los detalles. El libro se agrega al estado global y se muestra en la página principal, con retroalimentación adecuada al usuario.
+Me enfoqué también en la fluidez de la navegación y en un diseño intuitivo. Implementé un sistema de navegación que facilita moverse entre las diferentes secciones de la aplicación, asegurando una experiencia fluida y sin complicaciones para los usuarios.
 
-- Visualización de Libros: La página principal muestra todos los libros creados con una interfaz actualizable que refleja inmediatamente las nuevas adiciones.
+En cuanto a la tecnología, elegí React por su eficacia y flexibilidad para poder manejar la información y las interacciones dentro de la aplicación, garantizando así un funcionamiento suave y eficaz.
 
-- Navegación: La barra de navegación permite una transición fluida y clara entre la creación de libros y la vista principal, destacando por su diseño intuitivo y accesibilidad.
+En resumen, mi objetivo fue crear una aplicación no solo fácil de usar, sino también visualmente atractiva, con un enfoque en la simplicidad y la eficiencia.
 <br>
 <br>
 <a href="https://github.com/CynthiaMichelle/biblioteca" target="_blank">Enlace a GitHub</a>

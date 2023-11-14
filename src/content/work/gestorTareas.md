@@ -11,30 +11,25 @@ url: https://github.com/CynthiaMichelle/gestor_tareas
     text-align: justify;
   }
 </style>
-La aplicación trata de un sistema de gestión de tareas que permite a los usuarios añadir, modificar y eliminar tareas. Está construida con React y proporciona una interfaz de usuario interactiva y fácil de usar.
+Esta aplicación que desarrollé es una herramienta esencial para simplificar la gestión de tareas diarias. Mi principal objetivo al crearla fue ofrecer una solución eficiente y sencilla para que cualquier usuario pueda añadir, modificar y eliminar tareas, todo esto a través de una interfaz interactiva y fácil de usar.
 
-Componentes Principales:
+¿Cómo Funciona?
 
-- Todo: Representa una tarea individual. Permite a los usuarios editar o eliminar la tarea. Contiene dos subcomponentes: FormEdit para editar la tarea y TodoElement para mostrar los detalles de la tarea. 
-- TodoApp: Es el componente principal que maneja la lista de tareas (todos). Permite a los usuarios crear nuevas tareas y pasa funciones de actualización y eliminación a los componentes Todo.
-- App: Sirve como el componente raíz de la aplicación y encapsula TodoApp.
+Como usuario de mi aplicación, te encontrarás con una experiencia fluida y directa. Con apenas unos clics, puedes crear una nueva tarea, editar los detalles de una ya existente o eliminar las que ya no necesitas. He diseñado la aplicación para proporcionar una retroalimentación visual inmediata, haciendo que la interacción con las tareas sea intuitiva y gratificante.
 
-Hooks:
-- useState: Se usa para gestionar el estado de las tareas y los detalles de cada tarea. Controla la entrada de datos en los formularios y el estado de cada tarea en la lista.
-- preventDefault en handleSubmit: Previene la recarga de la página en la presentación del formulario, asegurando una experiencia de usuario fluida.
+Tecnologías Usadas:
 
-Funciones Principales:
-- handleSubmit: Agrega una nueva tarea a la lista.
-- handleUpdate: Actualiza el título de una tarea existente.
-- handleDelete: Elimina una tarea de la lista.
+Para construir la aplicación, elegí React, una tecnología moderna y ampliamente reconocida para el desarrollo de interfaces de usuario. Esto me permitió crear una experiencia de usuario dinámica manteniendo al mismo tiempo un diseño limpio y fácil de navegar. En lugar de enfocarme en los aspectos técnicos detallados, preferí concentrarme en cómo estas tecnologías mejoran la experiencia general del usuario.
 
-Gestión de Datos:
-- Estado Local (useState): Gestiona la lista de tareas y los detalles de cada tarea. Asegura que la interfaz de usuario se actualice en respuesta a los cambios en el estado.
+Aspectos Destacados de la Aplicación
 
-Navegación y Estructura:
-- La aplicación gestiona la navegación interna entre la creación, edición y eliminación de tareas mediante el uso de estados y la actualización de componentes.
+- Interfaz Intuitiva: He diseñado la aplicación pensando en la facilidad de uso, asegurando que puedas gestionar tus tareas de manera eficiente.
 
-La interfaz proporciona una interacción inmediata con las tareas y retroalimentación visual de las acciones del usuario.
+- Gestión Eficaz de Tareas: Te permite tener un control total sobre tus tareas, con opciones para añadir, editar y eliminar según tus necesidades.
+
+- Experiencia de Usuario Fluida: Gracias al uso de tecnologías avanzadas, la aplicación ofrece una experiencia sin interrupciones, evitando recargas de página innecesarias durante el manejo de las tareas.
+
+En resumen, mi aplicación "Gestor de Tareas" está diseñada para ser una herramienta útil y fácil de usar en la gestión diaria de tareas, aprovechando lo mejor de las tecnologías modernas para ofrecer una experiencia de usuario excepcional.
 
 
 <br>
