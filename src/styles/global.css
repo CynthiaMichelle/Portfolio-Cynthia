@@ -253,3 +253,21 @@ h5 {
 		gap: 12rem;
 	}
 }
+
+/* Scrollbar */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #ffffff;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #8241a0;
+	border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #c561f6;
+}

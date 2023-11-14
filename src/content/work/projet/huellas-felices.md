@@ -29,6 +29,6 @@ Para mejorar la experiencia del usuario, trabajé en el diseño de la navegació
 En resumen, este proyecto me permitió combinar mi pasión por los animales y mi habilidad en tecnología para crear una plataforma que facilita la adopción de animales.
 <br>
 <br>
-[Enlace a GitHub](https://github.com/CynthiaMichelle/huellas-felices)
+<a href="https://github.com/CynthiaMichelle/huellas-felices" target="_blank">Enlace a GitHub</a>
 <br>
 <br>
