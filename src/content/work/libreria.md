@@ -11,7 +11,7 @@ url: https://github.com/CynthiaMichelle/biblioteca
     text-align: justify;
   }
 </style>
- Esta aplicación, que desarrollé usando React, es una plataforma donde cualquier persona puede añadir y explorar libros de forma intuitiva.
+ Esta aplicación que desarrollé usando React, es una plataforma donde cualquier usuario puede añadir y explorar libros de forma intuitiva.
 
 Mi idea fue crear un espacio donde los usuarios puedan compartir libros. Para ello, basta con proporcionar detalles como el título, autor, una imagen de la portada, una breve introducción y una reseña. He diseñado la página principal para mostrar todos estos libros, creando así una experiencia interactiva y atractiva para el usuario.
 
