@@ -1,7 +1,7 @@
 ---
 title: Widget Clima
 publishDate: 2019-10-02 00:00:00
-img: /assets/stock-4.png
+img: /Portfolio-Cynthia/assets/stock-4.png
 img_alt: Widget clima
 description: Widget de clima interactivo creado con React y la API de WeatherAPI. 
 url: https://github.com/CynthiaMichelle/widget-clima

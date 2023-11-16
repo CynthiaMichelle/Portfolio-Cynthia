@@ -1,7 +1,7 @@
 ---
 title: Librería
 publishDate: 2019-12-01 00:00:00
-img: /assets/stock-2.png
+img: /Portfolio-Cynthia/assets/stock-2.png
 img_alt: Librería
 description: Aplicación para creación y visualización de libros.
 url: https://github.com/CynthiaMichelle/biblioteca

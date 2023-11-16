@@ -1,7 +1,7 @@
 ---
 title: Huellas Felices
 publishDate: 2023-10-15 00:00:00
-img: /assets/huellas-felices.png
+img: /Portfolio-Cynthia/assets/huellas-felices.png
 img_alt: Foto de formulario de inicio de sesión con una foto fondo de un perro en color blanco y negro 
 description: Página de adopción de perros y gatos. 
 url: https://github.com/CynthiaMichelle/huellas-felices

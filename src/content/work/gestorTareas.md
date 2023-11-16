@@ -1,7 +1,7 @@
 ---
 title: Gestor de Tareas
 publishDate: 2020-03-02 00:00:00
-img: /assets/stock-1.png
+img: /Portfolio-Cynthia/assets/stock-1.png
 img_alt: Gestor de tareas
 description: Aplicación para gestionar tareas. 
 url: https://github.com/CynthiaMichelle/gestor_tareas
