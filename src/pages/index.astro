@@ -1,5 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
+import dotenv from 'dotenv';
+dotenv.config();
 
 // Layout import — provides basic page elements: <head>, <nav>, <footer> etc.
 import BaseLayout from '../layouts/BaseLayout.astro';
@@ -45,7 +47,7 @@ const projects = (await getCollection('work'))
 					alt="Cynthia"
 					width="480"
 					height="620"
-					src="/assets/portrait.jpg"
+					src=import.meta.env.PUBLIC_BASE/assets/portrait.jpg
 				/>
 			</header>
 
