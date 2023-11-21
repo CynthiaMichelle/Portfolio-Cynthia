@@ -15,10 +15,10 @@ Este proyecto me ha brindado la oportunidad de unir mi amor por los animales y m
 
 En la plataforma que diseñé, se pueden encontrar una amplia variedad de perros y gatos. La página web que construí es funcional e intuitiva, permitiendo a los usuarios navegar fácilmente a través de perfiles detallados de los animales en busca de un nuevo hogar. También implementé un proceso de adopción sencillo y rápido, permitiendo a los usuarios ponerse en contacto con los anunciantes de adopción con un solo clic.
 
-La arquitectura de la aplicación web que desplegué se basa en un servidor Ubuntu de AWS, que proporciona la infraestructura necesaria para alojar la aplicación web de manera segura y escalable. Esta arquitectura se compone de varias capas esenciales, incluyendo el frontend en React, la API REST en Express y la base de datos NoSQL MongoDB.
+La arquitectura de la aplicación web que desplegué se compone de varias capas esenciales, incluyendo el frontend en React, la API REST en Express y la base de datos NoSQL MongoDB.
 
 Además implante la base de datos NoSQL MongoDB para almacenar los datos de la aplicación 
-de manera flexible y escalable. La API Express gestiona las solicitudes del frontend, 
+de manera flexible y escalable. . La API, creada con Express.js, gestiona las solicitudes del frontend, 
 realiza las operaciones de lectura y escritura en la base de datos MongoDB y envía los resultados nuevamente al frontend en formato JSON.
 
 El servidor Ubuntu en AWS proporciona la infraestructura para alojar la aplicación web, 
