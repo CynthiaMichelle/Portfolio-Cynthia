@@ -20,7 +20,7 @@ En el backend, Nodepop usa Node.js con el framework Express para manejar las sol
 
 Para el frontend, se utiliza una plantilla EJS para mostrar la lista de anuncios, que puede filtrarse por medio de la URL. Esto se hace para simplificar la interacción con el API y facilitar la implementación de filtros por parte de los usuarios.
 
-El proyecto también sugiere la creación de un microservicio usando cote.js o una cola de RabbitMQ para gestionar la creación de miniaturas (thumbnails) para las imágenes subidas, mejorando así el rendimiento y la eficiencia del procesamiento de imágenes.
+En el proyecto también hubo la creación de un microservicio usando RabbitMQ para gestionar la creación de miniaturas (thumbnails) para las imágenes subidas, mejorando así el rendimiento y la eficiencia del procesamiento de imágenes.
 
 El objetivo era desarrollar una API bien documentada y estructurada que pueda ser fácilmente mantenida y utilizada por otros desarrolladores, incluyendo aquellos que crean aplicaciones móviles en iOS o Android. 
 
