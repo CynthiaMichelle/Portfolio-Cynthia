@@ -22,7 +22,7 @@ Para el frontend, se utiliza una plantilla EJS para mostrar la lista de anuncios
 
 En el proyecto también hubo la creación de un microservicio usando RabbitMQ para gestionar la creación de miniaturas (thumbnails) para las imágenes subidas, mejorando así el rendimiento y la eficiencia del procesamiento de imágenes.
 
-El objetivo era desarrollar una API bien documentada y estructurada que pueda ser fácilmente mantenida y utilizada por otros desarrolladores, incluyendo aquellos que crean aplicaciones móviles en iOS o Android. 
+El objetivo era desarrollar una API bien documentada y estructurada que pueda ser fácilmente mantenida y utilizada por otros desarrolladores.
 
 <br>
 <br>
