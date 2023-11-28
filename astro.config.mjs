@@ -1,6 +1,6 @@
 import { defineConfig } from 'astro/config';
 
-// https://astro.build/config//
+// https://astro.build/configg//
 export default defineConfig({
     site: 'https://CynthiaMichelle.github.io',
     base: '/Portfolio-Cynthia',
