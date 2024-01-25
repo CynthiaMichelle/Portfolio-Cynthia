@@ -1,5 +1,5 @@
 ---
-title: Portal búsqueda Canales de YouTube
+title: Búsqueda de canales de YouTube
 publishDate: 2019-12-01 00:00:00
 img: /Portfolio-Cynthia/assets/stock-2.png
 img_alt: Búsqueda de canales de YouTube
